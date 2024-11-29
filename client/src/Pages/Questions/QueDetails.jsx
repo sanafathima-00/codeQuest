@@ -24,7 +24,7 @@ const QueDetails = () => {
     const navigate=useNavigate();
     const location=useLocation();
     const { id } = useParams();
-    const url="http://localhost:3000";
+    const url="https://codequest-oz5d.onrender.com";
     const handlepostans=(e,answerlength)=>{
         e.preventDefault();
         if(user ===null){

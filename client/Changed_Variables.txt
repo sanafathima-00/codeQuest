@@ -1,0 +1,66 @@
+Components = Components
+
+Navbar = HomePages
+navbar.jsx = HomePage.jsx
+navbar.css = HomePage.css
+
+Avatar = AboutPage
+Avatar.jsx = AboutPage.jsx
+
+Leftsidebar = Leftsidebar
+Leftsidebar.jsx = LeftBar.jsx
+Leftsidebar.css = LeftBar.css
+
+Rightsidebar = Rightsidebar
+Rightsidebar.jsx = RightBar.jsx
+Rightsidebar.css = RightBar.css
+Widget.jsx = Widget.jsx
+Widgettag.jsx = WidgetTag.jsx
+
+Homemainbar = Homemainbar 
+Homemainbar.jsx = Homebar.jsx
+Homemainbar.css = Homebar.css
+Question.jsx = Question.jsx
+Questionlist.jsx = QuestionList.jsx
+
+
+Pages = Pages
+
+Askquestion = AskQuestions
+Askquestion.jsx = AskQue.jsx
+Askquestion.css = AskQue.css
+
+Auth = Authentication
+Aboutauth.jsx = AboutAuth.jsx
+Auth.jsx = Auth.jsx
+Auth.css = Auth.css
+
+Home = Home
+Home.jsx = Homie.jsx
+
+Question = Questions
+Question.jsx = Ques.jsx
+Question.css = Ques.css
+Questiondetails.jsx = QuesDetails.jsx
+Displayquestion.jsx = DisplayQues.jsx
+Displayanswer.jsx = DisplayAns.jsx
+
+Tags = Tag
+Tags.jsx = Tags.jsx
+Tags.css = Tags.css
+tagslist.js = TagList.js
+Taglist.jsx = TagsList.jsx
+
+Users = Use
+User.jsx = User.jsx
+Users.jsx = Users.jsx
+Users.css = Users.css
+Userslist.jsx = UsersList.jsx
+
+Userprofile = UserProfile
+Userprofile.jsx = Profile.jsx
+Userprofile.css = Profile.css
+Profilebio.jsx = ProfileBio.jsx
+Edirprofileform.jsx = ProfileForm.jsx
+
+Allroutes.jsx = AllRoutes.jsx

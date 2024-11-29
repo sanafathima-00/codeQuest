@@ -10,9 +10,8 @@ A full-stack project built using **React** for the frontend and **Node.js** for 
 3. [Tech Stack](#tech-stack)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Folder Structure](#folder-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ---
 
@@ -83,27 +82,6 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using the commands provided above.
 3. Start the development servers and interact with the application on `localhost`.
-
----
-
-## **Folder Structure**
-```
-codeQuest/
-│
-├── client/               # Frontend code (React)
-│   ├── src/              # React source files
-│   ├── public/           # Static files
-│   └── package.json      # Frontend dependencies
-│
-├── server/               # Backend code (Node.js)
-│   ├── routes/           # API routes
-│   ├── models/           # Database models
-│   └── package.json      # Backend dependencies
-│
-├── .gitignore            # Files to ignore in Git
-├── README.md             # Project documentation
-└── LICENSE               # License information
-```
 
 ---
 

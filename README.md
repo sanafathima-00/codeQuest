@@ -77,8 +77,6 @@ npm start
 ```
 codequest/
 ├── client/
-│   ├── public/
-│   │   └── images/logos
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
